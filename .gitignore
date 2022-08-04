@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# private data
+/data/id_to_name.json
+/data/myauto-raw.csv
